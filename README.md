@@ -1,5 +1,5 @@
 # Visualize_attention_mechanism
-Code used for creating ressults published in my "Visualizing Attention Layers: Exploring Attention Heads as Dynamic Soft Weights" Medium article.
+Code used for creating results published in my [Visualizing Attention Layers: Exploring Attention Heads as Dynamic Soft Weights](https://medium.com/@shantanu.darveshi/attention-layers-as-soft-weights-6bfaf125cd11) Medium article.
 This project implements and analyzes an attention-based neural network that learns to perform minimum and maximum operations on pairs of numbers.
 
 Below text is generated using Claude Sonnet 3.5 (new).
